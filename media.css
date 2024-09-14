@@ -1,0 +1,554 @@
+@media (max-width:1465px){
+    .power-bb {
+        gap: 100px;
+    }
+    .blocks-block {
+        gap: 150px;
+    }
+    .hero img {
+        width: 485px;
+    }
+    .tion img {
+        width: 485px;
+    }
+    
+    
+}
+@media (max-width:1300px){
+    .zero p {
+        width: 175px;
+    }
+    .tion p {
+        width: 286px;
+        margin-bottom: 25px;
+    }
+    .jen-b2 {
+        gap: 210px;
+    }
+    .blocks-block {
+        gap: 100px;
+    }
+    .power-bb {
+        gap: 50px;
+    }
+   
+}
+@media (max-width:1300px){
+    .zet p {
+        width: 363px;
+        padding-block: 20px;
+    }
+    .zet-imgg img {
+        width: 460px;
+    }
+    .for p {
+        width: 334px;
+        margin-bottom: 29px;
+    }
+    .jen-b2 {
+        gap: 125px;
+    }
+    .wahid {
+
+        gap: 80px;
+    }
+}
+@media (max-width:1180px){
+    .for p {
+        width: 334px;
+        margin-bottom: 29px;
+    }
+    .jen-b2 {
+        gap: 125px;
+    }
+    .wahid {
+        gap: 80px;
+    }
+    .blocks-block {
+        gap: 65px;
+    }
+    #klass-star {
+        padding: 10px 12px;
+    }
+        .power-bb {
+            gap: 40px;
+        }
+        .power-p {
+            width: 248px;
+            font-size: 15px;
+            line-height: 23px;
+        }
+     
+
+}
+@media (max-width:1075px){
+    .wait-block {
+        width: 920px;
+        height: 330px;
+    }
+    .wait-text h1 {
+        width: 384px;
+        font-size: 29px;
+        line-height: 46px;
+        padding-bottom: 27px;
+    }
+    .wait-blocks img {
+        width: 325px;
+    }
+    .wait-block {
+        width: 825px;
+        height: 320px;
+    }
+    .zoro-blocks {
+        padding: 10px 40px;
+        line-height: 33px;
+    }
+}
+@media (max-width:1020px){
+    .hero img {
+        width: 440px;
+    }
+    .hero-text p {
+        width: 281px;
+        margin-block: 15px;
+    }
+    .hero-text h1 {
+        font-size: 37px;
+        width: 342px;
+        font-weight: 600;
+    }
+    .tion img {
+        width: 460px;
+    }
+    .zet-imgg img {
+        width: 435px;
+    }
+    .zet p {
+        width: 250px;
+        padding-block: 12px;
+    }
+    .for p {
+        width: 210px;
+        margin-bottom: 20px;
+    }
+    .jen-b2 {
+        gap: 80px;
+    }
+    .wahid {
+        gap: 45px;
+    }
+    .blocks-block {
+        gap: 40px;
+    }
+    .power-img img {
+        width: 52px;
+    }
+    .wait-text h1 {
+        width: 324px;
+        font-size: 28px;
+        line-height: 46px;
+        padding-bottom: 27px;
+    }
+    .wait-blocks img {
+        width: 320px;
+    }
+    .wait-block {
+        width: 745px;
+        height: 300px;
+    }
+    .power-p {
+        width: 203px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    
+}
+@media (max-width:940px){
+    .zero p {
+        width: 120px;
+    }
+    .zero h1 {
+        width: 410px;
+        font-size: 27px;
+    }
+    .zero-block {
+        display: flex;
+        gap: 65px;
+    }
+    .tion img {
+        width: 430px;
+    }
+    .for img {
+        width: 460px;
+    }
+    .prosses p {
+        width: 400px;
+        display: flex;
+        font-size: 14px;
+    }
+    .jen {
+        gap: 15px;
+    }
+    .jen1 {
+        gap: 15px;
+    }
+    .opl img {
+        width: 60px;
+    }
+    .jen p {
+        font-size: 14px;
+    }
+    .jen1 p {
+        font-size: 14px;
+    }
+    .wahid2 img {
+        width: 220px;
+    }
+    .wahid3 img {
+        width: 220px;
+    }
+    .wahid1 img {
+        width: 220px;
+    }
+    .wahid h4 {
+        width: 172px;
+        font-size: 15px;
+    }
+    .wahid nav {
+        margin-block: 8px;
+        font-size: 14px;
+    }
+    .vor p {
+        font-size: 14px;
+        width: 315px;
+    }
+    .zero-text h1 {
+        font-size: 32px;
+    }
+    .zero-text p {
+        padding: 15px 0 70px 0;
+        font-size: 13px;
+    }
+    .zoro-blocks h1 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .zoro-blocks p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .nav-block nav {
+        font-size: 70px;
+    }
+    .nav-block2 nav {
+        font-size: 70px;
+    }
+    .zoro-blocks li {
+        font-weight: 500;
+        font-size: 13px;
+    }
+    .zoro-blocks button {
+        padding: 8px 18px;
+        font-size: 13px;
+    }
+    .class-li {
+        padding-block: 0px;
+ 
+    }
+    .class-li2 {
+        padding-block: 0px;
+    }
+    .zoro-blocks {
+        padding: 15px 27px;
+        line-height: 33px;
+    }
+    .power-text h1 {
+        font-size: 32px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .power-text p {
+        font-size: 15px;
+        width: 460px;
+        padding: 10px 0 40px 0;
+    }
+    .wait-text h1 {
+        width: 267px;
+        font-size: 26px;
+        line-height: 40px;
+        padding-bottom: 20px;
+    }
+    .wait-blocks img {
+        width: 280px;
+    }
+    .wait-text button {
+        width: 120px;
+        height: 40px;
+        font-size: 17px;
+    }
+    .wait-block {
+        width: 650px;
+        height: 255px;
+    }
+    .x-box h5 {
+        width: 220px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 27px;
+        padding-bottom: 16px;
+    }
+    .li-tek2 nav {
+        font-size: 18px;
+    }
+    .li-tek nav {
+        font-size: 18px;
+    }
+    .klass-img {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding-bottom: 45px;
+    }
+    .li-tek2 {
+        line-height: 28px;
+    }
+    .li-tek {
+        line-height: 28px;
+    }
+    .but-but {
+        padding-top: 25px;
+    }
+    .footer-p {
+        font-size: 15px;
+    }
+    .hero img {
+        width: 400px;
+    }
+    .hero-text h1 {
+        font-size: 33px;
+        width: 293px;
+        font-weight: 600;
+    }
+    .hero-text button:last-child {
+     width: 202px;
+     
+    }
+    .hero-text button:first-child {
+        width: 153px;
+  
+    }
+    .button1 {
+        display: flex;
+        flex-direction: column;
+     
+        justify-content: center;
+        text-align: center;
+    }
+    
+}
+@media (max-width:850px){
+    
+    .hero {
+        display: flex;
+        align-items: center;
+         justify-content: center;
+        flex-direction: column-reverse;
+         gap: 50px;
+    }
+    .hero-text h1 {
+       text-align: center;
+    }
+    .hero-text p {
+        text-align: center;
+    }
+    .button1 {
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: center;
+         align-items: center;
+      
+    }
+    .zero-block {
+    display: flex;
+        flex-direction: column;
+        text-align: center;
+     
+    }
+    .tion {
+        flex-direction: column-reverse;
+        display: flex;
+      text-align: center; 
+      gap: 50px;
+    }
+    .zet {
+        display: flex;
+        align-items: center;
+       justify-content: center;
+        flex-direction: column;
+        gap: 50px;
+    }
+    .zet-block{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .for {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 50px;
+        justify-content: center;
+        text-align: center;
+    }
+    .jen-b {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 10px;
+    }
+    .jen-b2 {
+        gap: 0px;
+    }
+    .jen-b2 {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .wahid {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+       text-align: center;
+       align-items: center;
+    }
+    .blocks-block {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      
+    }
+    .power-bb {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      
+    }
+    .vip-block {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+   
+    }
+    
+    .li-li{
+        display: flex;
+        gap: 40px;
+        padding-bottom: 40px;
+        padding-top: 50px;
+        text-align: center;
+    }
+    iconca-kg {
+        gap: 0px;
+    }
+    .klass-img {
+        padding-bottom: 20px;
+    }
+    .x-box{
+        text-align: center;
+    }
+    .wait-blocks img {
+        width: 200px;
+    }
+    .wait-text h1 {
+        width: 190px;
+        font-size: 17px;
+        line-height: 31px;
+        padding-bottom: 17px;
+    }
+    .wait-block {
+        width: 269px;
+        height: 431px;
+    }
+    .wait-block {
+        display: flex;
+        align-items: center;
+        justify-content: center;    
+        flex-direction: column;
+    }
+    .tion img {
+        width: 365px;
+    }
+    .zet-imgg img {
+        width: 365px;
+    } 
+       .for img {
+        width: 375px;
+    }
+    .wait-text button {
+        width: 100px;
+        height: 32px;
+        font-size: 15px;
+    }
+    power-text h1 {
+        font-size: 27px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .power-text p {
+        font-size: 14px;
+        width: 320px;
+        padding: 10px 0 40px 0;
+        line-height: 20px;
+    }
+    .zero h1 {
+        width: 300px;
+        font-size: 18px;
+    }
+    .footer-p {
+        font-size: 11px;
+    }
+  
+@media (max-width:500px){
+    .hero img {
+        width: 365px;
+    }
+    .tion img {
+        width: 340px;
+    }
+    .for img {
+        width: 350px;
+    }
+    .footer-p {
+        font-size: 10px;
+    }
+    .prosses p {
+        width: 302px;
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .prosses h1 {
+        font-size: 27px;
+        font-weight: 700;
+        color: #22343d;
+    }
+}
+@media (max-width:390px){
+    .hero img {
+        width: 300px;
+    }
+    .tion img {
+        width: 275px;
+    }
+    .zet-imgg img {
+        width: 295px;
+    }
+    .for img {
+        width: 300px;
+    }
+    .wait-block {
+        width: 255px;
+        height: 410px;
+    }
+}
+ 
